@@ -2,7 +2,7 @@
 - 👀 I’m interested in trail running, swimming, hiking - developing RS tools, ML/DL, neural nets
 - 🌱 I’m currently self learning CS50/CompSci/GEE/Python/JS
 - 💞️ I’m looking to collaborate on EO/RS related projects
-- 📫 Reach out, lets build something!
+- 📫 Reach out, lets build something...
 
 <!---
 jaccorbett/jaccorbett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
